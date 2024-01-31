@@ -1,0 +1,15 @@
+{
+  "name": "chai-aur-backend",
+  "version": "1.0.0",
+  "description": "backend at chai aur code playlist on youtube by Hitesh Choudhary",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javasctipt",
+    "backend"
+  ],
+  "author": "Harsh Vardhan Sharma",
+  "license": "ISC"
+}
