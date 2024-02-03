@@ -16,7 +16,7 @@ router.route('/register').post(
 router.route('/login').post(loginUser); // Add a new route for POST requests
 // secured route
 router.route('/logout').post(verifyJWT, logoutUser)
-router.route('/refreshToken').post(refreshToken)
+router.route('/refreshToken').post(refreshAccessToken)
 
 
 export default router; // Export the router
